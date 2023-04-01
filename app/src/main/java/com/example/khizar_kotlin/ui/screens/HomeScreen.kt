@@ -174,7 +174,6 @@ fun HomeContent(
                     , 20
                 ))
             }*/
-
         }
     }
     if (pointerState.value !is PointerState.PICKED) {
