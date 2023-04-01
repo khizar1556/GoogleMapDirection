@@ -1,5 +1,5 @@
 # GoogleMapDirection
-Google map direction from pickup and drop off with Dagger Hilt , MVVM , Compose UI  
+Google map direction from pickup location and drop off location with Retrofit , Dagger Hilt , MVVM , Compose UI  
 <!---GoogleMapDirection--->
 <!---Google Map Direction--->
 <!---MVVM--->
