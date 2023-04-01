@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Khizar_kotlin</string>
-    <string name="MAPS_API_KEY">AIzaSyDjV-xN53sEgcwW1J1Gqrkn75a2EJ_cvgc</string>
+    <string name="MAPS_API_KEY">replace with MAP KEY</string>
 </resources>
