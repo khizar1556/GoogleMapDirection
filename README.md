@@ -2,7 +2,7 @@
 Google map direction from pickup and drop off with Dagger Hilt , MVVM , Compose UI  
 
 # Sample
-![](https://raw.githubusercontent.com/khizar1556/GoogleMapDirection/main/sample.mp4)
+![](https://raw.githubusercontent.com/khizar1556/GoogleMapDirection/main/sample.MP4)
 # Replace Map Key
 go to res -> values -> string.xml
 ```
